@@ -15,7 +15,8 @@ public class UniqueElement
 		list.add(10);
 		list.add(9);
 		list.add(10);
-	
+
+		// Go through the size of the list
 		for(int i = 0; i < list.size()-1; i++)
 		{
 			int count = 0;
